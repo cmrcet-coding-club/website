@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "https://github.com/cmrcet-coding-club/website",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
